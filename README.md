@@ -52,6 +52,7 @@ No back-end, com Node.js, as habilidades foram expandidas ao configurar um servi
 Quanto ao desafio de design do front-end, o projeto exigiu uma abordagem cuidadosa para criar uma experiência de usuário intuitiva e agradável. Foi um exercício valioso em design responsivo, garantindo que a aplicação fosse acessível e fácil de usar em diferentes dispositivos. Além disso, houve o desafio de apresentar informações complexas de maneira simplificada, permitindo que os usuários tomassem decisões informadas com facilidade.
 
 Esse projeto ajudou a entender melhor o ciclo de vida do desenvolvimento de software e a importância da colaboração e do planejamento na criação de soluções eficazes e escaláveis.
+
 ---
 
 *Este README é um documento dinâmico e pode ser atualizado para refletir mudanças no projeto ou na documentação.*
