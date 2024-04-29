@@ -53,7 +53,7 @@ function App() {
         <Banner />
       </div>
       <div className="app-header">
-        <h1 className="Title">Seja bem-vindo ao Lave Pet!</h1>
+        <h1 className="title">Seja bem-vindo ao Lave Pet!</h1>
       </div>
       <Forms
         petShopSubmited={(petShopSearchValues) =>

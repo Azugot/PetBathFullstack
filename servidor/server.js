@@ -41,7 +41,6 @@ const petShops = [
     priceMultiplier: 1,
     image: "/images/PetShopsImages/ChowC.webp",
   },
-  
 ];
 
 app.get("/api/petshops", (req, res) => {
@@ -101,14 +100,16 @@ app.post("/api/results", (req, res) => {
         }
       }
     });
-  }else{
+  } else {
     bestPetShop = -1;
     bestPrice = 0;
     display = false;
   }
 
   //console.log(req.body);
-  res.send(
-    { bestPetShop: bestPetShop, bestPrice: bestPrice, display: display },
-  );
+  res.send({
+    bestPetShop: bestPetShop,
+    bestPrice: bestPrice,
+    display: display,
+  });
 });

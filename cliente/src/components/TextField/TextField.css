@@ -13,6 +13,7 @@
 .text-field input {
   background-color: aliceblue;
   max-width: 40%;
+  min-width: 75px;
   border-radius: 16px;
   padding: 16px;
   box-sizing: border-box;
