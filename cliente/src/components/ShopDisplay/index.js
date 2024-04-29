@@ -21,7 +21,7 @@ const ShopDisplay = (props) => {
 
 
   return (
-    display == true && (
+    display === true && (
       <section className="shop-display">
         <h2>Melhor PetShop para suas necessidades:</h2>
         <div className="info">
