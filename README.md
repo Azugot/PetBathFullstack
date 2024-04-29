@@ -23,6 +23,8 @@ Para executar o sistema, siga os passos abaixo:
    npm run dev  #Servidor
    ```
 
+   4. Para fechar o servidor e o cliente, utilize cntrl+c 2x nos terminais. Fechar o terminal tem o mesmo efeito.
+
 ## Lista de Premissas Assumidas
 
 - O sistema foi desenvolvido em um ambiente de desenvolvimento como um protótipo funcional.
