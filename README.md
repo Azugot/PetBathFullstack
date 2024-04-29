@@ -23,7 +23,7 @@ Para executar o sistema, siga os passos abaixo:
    npm run dev  #Servidor
    ```
 
-## Lista de Premissões Assumidas
+## Lista de Premissas Assumidas
 
 - O sistema foi desenvolvido em um ambiente de desenvolvimento como um protótipo funcional.
 - Foi construído com React no front-end e Node.js no back-end, seguindo as especificações do teste prático da DTI.
