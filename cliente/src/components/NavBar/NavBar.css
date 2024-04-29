@@ -1,0 +1,38 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: #ffffff;
+    overflow: hidden;
+    padding: 0 10px; 
+  }
+  
+  .navbar-title {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+    
+  }
+  
+  .nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    padding: 14px 16px;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: block;
+  }
+  
+.nav-links li a:hover {
+    color: rgb(110, 205, 243);
+}
+  

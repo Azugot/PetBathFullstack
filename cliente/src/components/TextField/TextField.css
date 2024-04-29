@@ -1,0 +1,21 @@
+.text-field {
+  margin: 2px 0;
+  max-width: 25%;
+}
+
+.text-field label {
+  display: block-inline;
+  margin-bottom: 8px;
+  font-size: 24px;
+  padding: 5px;
+}
+
+.text-field input {
+  background-color: aliceblue;
+  max-width: 40%;
+  border-radius: 16px;
+  padding: 16px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+

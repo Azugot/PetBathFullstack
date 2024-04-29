@@ -1,0 +1,21 @@
+.shop-display {
+  display: block;
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 80px;
+  width: 800px;
+  margin-bottom: 20px;
+}
+
+.info {
+  display: flex;
+  text-align: center;
+  justify-content:center;
+  margin-bottom: 20px;
+}
+
+.shop-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}

@@ -1,0 +1,21 @@
+.app {
+    background-color: rgb(84, 201, 255);
+}
+
+.app-header {
+  position: relative;
+  top: -380px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.app-banner {
+  position: relative;
+  bottom: -50px;
+  text-align: center;
+}
+
+.shop-results{
+  display: flex;
+  justify-content: center;
+}

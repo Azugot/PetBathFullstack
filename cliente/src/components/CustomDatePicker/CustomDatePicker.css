@@ -1,0 +1,19 @@
+.date-picker {
+  margin: 0px -50px;
+  padding-left: 7%;
+}
+
+.date-picker label {
+  display: block-inline;
+  margin-right: -50px;
+  font-size: 24px;
+}
+
+.date-picker input {
+  background-color: aliceblue;
+  max-width: 55%;
+  border-radius: 16px;
+  padding: 16px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
